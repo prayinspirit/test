@@ -1,2 +1,7 @@
 test on  others-test
+<<<<<<< HEAD
 test on  main
+=======
+test on  main
+test on  another-test
+>>>>>>> another-test
